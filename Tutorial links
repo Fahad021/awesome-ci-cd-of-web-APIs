@@ -4,3 +4,6 @@ https://medium.com/@huseinzolkepli/how-to-ci-cd-flask-app-using-gitlab-ci-429701
 2. Deploying a Flask application on AWS with Gitlab CI/CD 
 https://medium.com/@thimblot/deploying-a-flask-application-on-aws-with-gitlab-ci-cd-part-1-87392be2129e
 https://medium.com/@thimblot/deploying-a-flask-application-on-aws-with-gitlab-ci-cd-part-2-a175dc132950
+
+3. Tutorial on Using Gitlab CI/CD Pipelines to Deploy Your Python Flask Restful API With Postgres on Heroku
+https://blog.ruanbekker.com/blog/2019/01/05/tutorial-on-using-gitlab-cicd-pipelines-to-deploy-your-python-flask-restful-api-with-postgres-on-heroku/
